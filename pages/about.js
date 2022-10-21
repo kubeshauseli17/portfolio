@@ -7,7 +7,7 @@ export default function About() {
     return(
         <div>
             <h1>About Me</h1>
-            <p>Hi  am Elijah, I'm a software engineer now</p>
+            <p>`Hi I am Elijah, I'm a software engineer now`</p>
 
 
             {/* load an mage locally */}
@@ -25,7 +25,7 @@ export default function About() {
                 width={400}
                 height={500}
             />
-            
+
         </div>
     )
 };
